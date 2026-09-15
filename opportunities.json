@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ayuda-en-accion-honduras-video-documental-pescadores",
+    "type": "tdr",
+    "title": "Términos de Referencia: Producción de Video Documental sobre Experiencias de Pescadores Empleando Tecnologías Sostenibles – Proyecto Innovación en la Pesca Sostenible",
+    "agency": "Fundación Ayuda en Acción Honduras",
+    "url": "https://empleos.hn/jobs/terminos-de-referencia-produccion-de-video",
+    "source": "empleos.hn (RDS - Red de Desarrollo Sostenible, Honduras)",
+    "deadline": null,
+    "country_scope": ["Honduras"],
+    "sector": ["video documental", "pesca sostenible", "comunicación y visibilidad"],
+    "deliverable_structure": "Video documental principal (3.5–4 min) con narración, subtítulos en español, gráficos, música y animaciones; versión de 2 min para X/Twitter y versión de 2:15 min para otras redes sociales; fotografías de respaldo durante distintas etapas de ejecución del proyecto piloto, incluyendo acompañamiento a pescadores durante su labor.",
+    "estimated_value": {"amount": null, "currency": null, "raw_text": null},
+    "submission_requirements": {"attachments": [], "method": null, "contact": null},
+    "eligibility_flags": {
+      "nationality_residency": {"restricted": false, "detail": "No se encontró texto explícito sobre restricción de nacionalidad/residencia en los fragmentos disponibles; el documento completo no pudo verificarse (acceso a empleos.hn bloqueado en este entorno)."},
+      "entity_type_required": "sin_especificar",
+      "min_years_experience": null,
+      "degree_required": null,
+      "language_required": ["español"],
+      "other_requirements": []
+    },
+    "fit_assessment": {
+      "verdict": "needs_review",
+      "disqualifiers": [],
+      "soft_mismatches": [],
+      "rationale": "Ayuda en Acción es cliente previo del equipo (coincide explícitamente con el perfil) y Honduras es un país ya ejecutado, con componente audiovisual claro (documental + versiones para redes + fotografía). No fue posible confirmar la fecha límite de presentación ni los requisitos de tipo de entidad/nacionalidad porque el acceso directo a empleos.hn está bloqueado en este entorno (WebFetch denegado por política de red); se requiere verificación manual antes de decidir participar, incluyendo confirmar que el plazo no haya vencido."
+    },
+    "discovered_at": "2026-09-15T00:00:00Z",
+    "lifecycle": {"status": "new", "notes": "", "updated_at": "2026-09-15T00:00:00Z"}
+  },
+  {
+    "id": "cuc-guatemala-3-videos-informativos",
+    "type": "tdr",
+    "title": "Términos de Referencia para Realización y Producción de 3 Vídeos Informativos",
+    "agency": "Comité de Unidad Campesina (CUC), Guatemala",
+    "url": "https://www.cuc.org.gt/web25/index.php?option=com_content&view=article&id=965&catid=18&Itemid=171",
+    "source": "cuc.org.gt",
+    "deadline": null,
+    "country_scope": ["Guatemala"],
+    "sector": ["video institucional", "comunicación y visibilidad"],
+    "deliverable_structure": "3 vídeos informativos; detalle de duración, temática y entregables no confirmado (acceso a la fuente bloqueado en este entorno).",
+    "estimated_value": {"amount": null, "currency": null, "raw_text": null},
+    "submission_requirements": {"attachments": [], "method": null, "contact": null},
+    "eligibility_flags": {
+      "nationality_residency": {"restricted": false, "detail": "No confirmado; el documento completo no fue accesible (WebFetch bloqueado hacia cuc.org.gt)."},
+      "entity_type_required": "sin_especificar",
+      "min_years_experience": null,
+      "degree_required": null,
+      "language_required": ["español"],
+      "other_requirements": []
+    },
+    "fit_assessment": {
+      "verdict": "needs_review",
+      "disqualifiers": [],
+      "soft_mismatches": [],
+      "rationale": "Guatemala es país ya ejecutado por el equipo y el título indica un componente audiovisual claro, pero no fue posible verificar la vigencia real de la convocatoria (fecha de publicación, plazo, requisitos de entidad) por bloqueo de acceso directo a cuc.org.gt. CUC no es un cliente previo del equipo. Requiere verificación manual urgente, incluyendo confirmar que el plazo no haya vencido, antes de invertir tiempo en una propuesta."
+    },
+    "discovered_at": "2026-09-15T00:00:00Z",
+    "lifecycle": {"status": "new", "notes": "", "updated_at": "2026-09-15T00:00:00Z"}
+  },
+  {
+    "id": "sisca-campana-migrantes-retornados-comunicacion-regional",
+    "type": "rfp",
+    "title": "Licitación Pública Internacional de Servicios de Consultoría: Diseño e Implementación de una Campaña Regional de Comunicación para Contribuir a la Reducción de la Estigmatización de las Personas Migrantes Retornadas en El Salvador, Guatemala y Honduras",
+    "agency": "SISCA (Secretaría de la Integración Social Centroamericana) / SICA – Proyecto PERSPECTIVAS (financiado por Cooperación Alemana / KfW, con apoyo de Swisscontact)",
+    "url": "https://sisca.int/en/docman-oportunidades/1711-ref-licitacion-publ-int-de-servicios-de-consultoria-para-diseno-e-implementacion-de-una-campana-regional-de-comunicacion-para-contribuir-a-la-reduccion-de-la-estigmatizacion-de-las-personas-migrantes-retornadas-en-el-salvador-guatemala-y-honduras",
+    "source": "sisca.int",
+    "deadline": null,
+    "country_scope": ["El Salvador", "Guatemala", "Honduras"],
+    "sector": ["comunicación y visibilidad", "campaña regional"],
+    "deliverable_structure": "Campaña regional de comunicación; un eventual componente de video/documental/fotografía no se confirmó explícitamente en los fragmentos disponibles.",
+    "estimated_value": {"amount": null, "currency": null, "raw_text": null},
+    "submission_requirements": {"attachments": [], "method": null, "contact": null},
+    "eligibility_flags": {
+      "nationality_residency": {"restricted": false, "detail": "No confirmado; documento completo no accesible (WebFetch bloqueado hacia sisca.int)."},
+      "entity_type_required": "sin_especificar",
+      "min_years_experience": null,
+      "degree_required": null,
+      "language_required": ["español"],
+      "other_requirements": ["Proceso restringido: según anuncio de SISCA del 12 de agosto de 2026, solo firmas consultoras preclasificadas fueron invitadas a presentar propuestas; no se confirmó si el equipo forma parte de esa lista preclasificada."]
+    },
+    "fit_assessment": {
+      "verdict": "needs_review",
+      "disqualifiers": [],
+      "soft_mismatches": ["No se confirmó un componente de video/documental/fotografía explícito; el alcance descrito es una 'campaña regional de comunicación', que podría o no incluir producción audiovisual significativa."],
+      "rationale": "SICA/SISCA coincide con el perfil de clientes previos vinculados a FRM/PDRR (organismos del sistema SICA), y El Salvador, Guatemala y Honduras son países ya ejecutados por el equipo. Sin embargo, es una licitación pública internacional aparentemente restringida a un grupo de firmas preclasificadas (anuncio de resultados de preclasificación del 12-ago-2026); no se pudo confirmar si el equipo fue invitado a esa fase, ni el alcance audiovisual específico, ni la fecha límite vigente, debido al bloqueo de acceso directo a sisca.int en este entorno."
+    },
+    "discovered_at": "2026-09-15T00:00:00Z",
+    "lifecycle": {"status": "new", "notes": "", "updated_at": "2026-09-15T00:00:00Z"}
+  }
+]
