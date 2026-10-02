@@ -88,5 +88,35 @@
     },
     "discovered_at": "2026-09-15T00:00:00Z",
     "lifecycle": {"status": "new", "notes": "", "updated_at": "2026-09-15T00:00:00Z"}
+  },
+  {
+    "id": "undp-slv-00553-diseno-plan-comunicaciones-2026",
+    "type": "consultoria",
+    "title": "UNDP-SLV-00553 — Servicios de Diseño Gráfico para Piezas de Comunicación Visual (Plan de Comunicaciones 2026 y Estrategia de Comunicación Digital 2026)",
+    "agency": "PNUD El Salvador (UNDP)",
+    "url": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=48036",
+    "source": "procurement-notices.undp.org",
+    "deadline": null,
+    "country_scope": ["El Salvador"],
+    "sector": ["diseño gráfico", "comunicación visual", "comunicación y visibilidad"],
+    "deliverable_structure": "Creación y adaptación de piezas de comunicación visual para apoyar la ejecución del Plan de Comunicaciones 2026 y la Estrategia de Comunicación Digital 2026 del PNUD El Salvador, con cumplimiento del manual de marca; periodo de servicio hasta el 31 de diciembre. No se confirmó si el alcance incluye producción de video/documental/fotografía o se limita a piezas gráficas estáticas.",
+    "estimated_value": {"amount": null, "currency": null, "raw_text": null},
+    "submission_requirements": {"attachments": [], "method": null, "contact": null},
+    "eligibility_flags": {
+      "nationality_residency": {"restricted": false, "detail": "No confirmado; documento completo no accesible (WebFetch bloqueado hacia procurement-notices.undp.org)."},
+      "entity_type_required": "persona_natural",
+      "min_years_experience": null,
+      "degree_required": null,
+      "language_required": ["español"],
+      "other_requirements": ["Modalidad de Contratista Individual (IC) del PNUD, lo que sugiere persona natural en lugar de persona jurídica — pendiente de confirmación en el documento completo."]
+    },
+    "fit_assessment": {
+      "verdict": "needs_review",
+      "disqualifiers": [],
+      "soft_mismatches": ["El alcance parece centrado en diseño gráfico / piezas de comunicación visual más que en producción de video, documental o fotografía; no se confirmó un componente audiovisual significativo."],
+      "rationale": "El Salvador es la sede legal del equipo y país ya ejecutado, lo cual es una ventaja logística fuerte, y PNUD es un organismo de Naciones Unidas (familia cercana a UNICEF, cliente previo, aunque no es el mismo organismo). Sin embargo, el alcance descrito parece centrado en diseño gráfico para comunicación digital, no necesariamente en video/documental/fotografía, y la modalidad de Contratista Individual (IC) de PNUD podría exigir participación como persona natural en lugar de persona jurídica — compatible con el perfil del equipo si se confirma. No fue posible verificar la fecha límite de presentación ni el texto íntegro del TDR por bloqueo de acceso a procurement-notices.undp.org en este entorno; requiere verificación manual antes de decidir participar."
+    },
+    "discovered_at": "2026-10-02T00:00:00Z",
+    "lifecycle": {"status": "new", "notes": "", "updated_at": "2026-10-02T00:00:00Z"}
   }
 ]
